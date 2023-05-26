@@ -34,6 +34,7 @@ Java Enterprise Online Project
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. [Системы управления версиями. Git](entrance/video5-vcs-git.md)</a>
 
 ##  ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFZDdaaU5fZEo4X3c/view?resourcekey=0-DvpzWIlMHZ7KX_v1SMuiAw">Работа с проектом (выполнять инструкции)</a>
+- Поправка: JetBrains больше не выдает ключей, вот [варианты после trial](https://github.com/JavaOPs/topjava/wiki/IDEA#licence) 
 - **ВНИМАНИЕ: выбирайте для проекта простой пусть без пробелов и русских букв, например, `c:\projects\topjava\` (Windows). Иначе впоследствии будут проблемы**
 - **Плагин Git Intergation уже не требуется, а вкладку `Version control` в IDEA переименовали в `Git`**
 
