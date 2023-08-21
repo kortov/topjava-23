@@ -13,7 +13,7 @@
 #### Apply [11_16_HW_fix_swagger.patch](https://drive.google.com/file/d/1A76XXvZdZCKxeKnVjZ2VkrWAHEQ1iof2)
 
 ## Миграция на Spring Boot
-За основу взят **финальный код проекта BootJava с миграцией на Spring Boot 3.1 ([8й урок](https://javaops.ru/view/bootjava/lesson08))**  
+За основу взят **[финальный код проекта BootJava с миграцией на Spring Boot 3.1, 8-й урок](https://javaops.ru/view/bootjava/lesson08)**  
 Вычекайте в отдельную папку (как отдельный проект) ветку `spring_boot` нашего проекта (так удобнее, не придется постоянно переключаться между ветками):
 ```
 git clone --branch spring_boot --single-branch https://github.com/JavaWebinar/topjava.git topjava_boot
